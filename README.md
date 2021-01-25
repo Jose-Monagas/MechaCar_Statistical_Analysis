@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![linear reg to predict mpg](resources/del_1.png)
+![linear reg to predict mpg](resources/summary_lm.png)
 
 As we can see in the picture above, in the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to our liner model. As per our results, vehicle length, ground_clearance, vehicle, as well as intercept are statistically unlikely to provide random amounts of variance. Alternatively stated, these coefficients previously mentioned have a significant impact on mpg. 
 
